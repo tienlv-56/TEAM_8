@@ -1,6 +1,6 @@
 TEAM_8
 ======
-Kế hoạch dự án thiết kế websize quản lý bán hàng trên mạng
+                      Kế hoạch thực hiện dự án thiết kế websize quản lý bán hàng trên mạng
 Dự án này chúng ta sẽ thực hiện bao gồm các công đoạn chính sau, mức độ triển khai được đánh số thứ tự lần lượt từ 1 đến hết
 1.  Đưa ra ý tưởng, bao gồm ý tưởng thiết kế websize, gồm giao diện và tính năng của webside. Công việc này có sự kết hợp giữa người thiết kế và khách hàng. 
 Thực hiện: đưa ra biểu mẫu người dùng.
@@ -22,4 +22,4 @@ Kết quả cần đạt được: kiểm chứng được phần mềm với đ
 
 
 Bản demo số 1.
-<Mọi người đọc hết.  >
+<Mọi người đọc hết. sử dụng phần code để xem dễ dàng hơn nhé  >
